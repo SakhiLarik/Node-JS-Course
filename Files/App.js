@@ -1,4 +1,4 @@
-/*var name = "Sakhawat Ali Larik";
+var name = "Sakhawat Ali Larik";
 var nuumber1 = 34;
 var floating = 56.98;
 var numbeer2 = 54;
@@ -19,7 +19,7 @@ console.log(typeof(totalage));
 console.log(typeof(nuumber1));
 console.log(typeof(numbeer2));
 console.log(typeof(floating));
-console.log(typeof(result));*/
+console.log(typeof(result));
 
 
 var student = {
